@@ -1,0 +1,13 @@
+body{
+    background: url('birthday.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    padding-top: 20px;
+    font-size: 45px;
+    text-align:center;
+    color:orange;
+}
+#img1{
+margin:0px auto;
+}

@@ -1,0 +1,13 @@
+body{
+    background: url('letter.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    padding-top: 150px;
+    font-size: 75px;
+    text-align:center;
+    color:black;
+} 
+#img1{
+margin:0px auto;
+}
